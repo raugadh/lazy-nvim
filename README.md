@@ -3,3 +3,7 @@
 ```lua
 	vim.g.lazyvim_php_lsp = "intelephense"
 ```
+## And run
+```
+	:TSInstall blade
+```
